@@ -1,6 +1,6 @@
-# Page Title
+# beginning of computer science
 
-A short introduction for the top of your main page
+i will learn
 
 
 More content you want on your page
